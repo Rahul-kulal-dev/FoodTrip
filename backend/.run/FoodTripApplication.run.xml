@@ -1,0 +1,31 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FoodTripApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <option name="ENV_FILES" value="$PROJECT_DIR$/.env;$PROJECT_DIR$/../.env" />
+    <option name="envFilePaths">
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/../.env" />
+    </option>
+    <module name="foodtrip" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.foodtrip.FoodTripApplication" />
+    <EXTENSION ID="com.intellij.execution.configurations.EnvFileConfigurationExtension">
+      <option name="envFiles">
+        <list>
+          <option value="$PROJECT_DIR$/.env" />
+          <option value="$PROJECT_DIR$/../.env" />
+        </list>
+      </option>
+      <option name="envFileEntries">
+        <list>
+          <option value="$PROJECT_DIR$/.env" />
+          <option value="$PROJECT_DIR$/../.env" />
+        </list>
+      </option>
+      <option name="isEnabled" value="true" />
+      <option name="isCustom" value="false" />
+      <option name="isExcluded" value="false" />
+    </EXTENSION>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
